@@ -1,5 +1,10 @@
-# Local Netlify folder
-.netlify
 
-# Package Files
-node_modules/
+/public/
+/exampleSite/public/
+/exampleSite/resources/_gen/*
+
+workspace
+
+# /resources/*
+
+.env
